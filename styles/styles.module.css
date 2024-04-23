@@ -1,0 +1,52 @@
+.back_button {
+    color: #949494;
+    font-size: 12px;
+}
+
+.error_message {
+    color: #ffa0a0;
+}
+
+.page_container {
+    padding: 10px
+}
+
+.page_header {
+    border: 1px;
+    border-color: #747474;
+    border-bottom-style: solid;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    color: #ffffff;
+}
+
+.post_container {
+    padding-bottom: 20px;
+    padding-left: 5px;
+}
+
+.post_details_body {
+    color: #ffffff;
+}
+
+.post_table_body {
+    font-size: 13px;
+    margin: 0;
+    margin-top: 2px;
+    color:#dbdbdb
+}
+
+.post_table_link {
+    cursor: pointer;
+    padding-bottom: 2px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.post_table_link:link {
+    color: #ffffff;
+}
+
+.post_table_link:visited {
+    color: #949494;
+}

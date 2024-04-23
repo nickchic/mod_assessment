@@ -1,5 +1,5 @@
 
-import styles from '@/styles/global.module.css'
+import styles from '@/styles/styles.module.css'
 
 const ErrorMessage = ({ message = "" }) => {
     return (

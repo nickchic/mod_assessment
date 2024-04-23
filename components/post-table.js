@@ -1,5 +1,5 @@
 import Post from "@/components/post"
-import styles from '@/styles/global.module.css'
+import styles from '@/styles/styles.module.css'
 
 const PostTable = ({ data = [] }) => {
     //empty state is there are no posts
